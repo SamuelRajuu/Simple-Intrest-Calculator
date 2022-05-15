@@ -1,0 +1,35 @@
+body {
+    background-color:black;
+    font-family: Arial;
+    color: white;
+}
+h1{
+    font-family: Verdana;
+    color:grey;
+}
+.maindiv {
+    margin: auto;
+    background-color: white;
+    color: black;
+    width: max-content;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+form {
+    margin-left: 17%;
+    margin-bottom: 4%;
+}
+
+label, input, select, span, button {
+    display: inline-block;
+    margin-top: 3%;
+}
+
+label {
+    width: 31%;
+}
+
+#result {
+    display: block;
+}
